@@ -1,6 +1,6 @@
 # Chatroom Application
 
-A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients.
+A cchatroom application using socket programming and multi-threading for concurrent communication.
 
 ![](/screenshot.png)
 ## How to run
