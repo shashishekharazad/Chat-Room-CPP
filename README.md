@@ -1,7 +1,6 @@
 # Chatroom Application - Linux Based
 
-A cchatroom application using socket programming and multi-threading for concurrent communication.
-Implemented communication channels between the server and clients, ensuring seamless message exchange and managed multiple client connections concurrently, enhancing the efficiency of communication within the chatroom.
+A chatroom application using socket programming and multi-threading for concurrent communication. Implemented communication channels between the server and clients, ensuring seamless message exchange, managing multiple client connections concurrently, and enhancing communication efficiency within the chatroom.
 
 If you want, you can clone this repository and modify the program.
 ```
